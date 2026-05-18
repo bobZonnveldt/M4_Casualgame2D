@@ -38,3 +38,19 @@
 
 # wat maakt de actie satisfying
 ## de sounds en extra screen effects zoals screen shake en een outline en de animaties
+
+# wanneer start de actie
+## wanneer de speler de bal schietschiet/krijgt
+
+# wanneer is de actie gelukt
+## als de speler de balleen naast elkaar krijgt schiet/krijgt
+
+# wat verandert er
+## als er 3 ballen van dezelfde kleur naast elkaar wordt geschoten dan gaan ze kapot en verandert de map dus 
+
+# welke variable heb je nodig 
+## int string float
+
+# welke feedback krijgt de speler
+## screen shake sound effects een outline rondt de camera en text in beeld
+
