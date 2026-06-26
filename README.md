@@ -1,6 +1,6 @@
 # M4_Casualgame2D
 # Gekozen uitdaging
-## Ik kies:  Extra Fun
+## Ik kies:  Fun
 
 # Core mechanic
 ## Mijn core mechanic is dat de speler balletjes schiet om balletjes te laten verdwijnen
@@ -52,5 +52,5 @@
 ## int string float
 
 # welke feedback krijgt de speler
-## screen shake sound effects een outline rondt de camera en text in beeld
+## screen shake en text in beeld
 
